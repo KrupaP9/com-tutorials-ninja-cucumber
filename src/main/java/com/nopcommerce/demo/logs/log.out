@@ -1,0 +1,393 @@
+2022-12-22 13:14:783 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:14:88 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (7cd07f469142d09b3d86bae1d0491690)] -> id: input-sort]
+2022-12-22 13:14:168 INFO  DesktopPage :54 - selectName (Z - A)from[[ChromeDriver: chrome on WINDOWS (7cd07f469142d09b3d86bae1d0491690)] -> id: input-sort]
+2022-12-22 13:14:253 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:14:552 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (7b639f92cd64643e67a2ccfda670ada6)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:14:903 INFO  LoginPage :44 - Getting returning customer text [[ChromeDriver: chrome on WINDOWS (7b639f92cd64643e67a2ccfda670ada6)] -> xpath: //input[@value='Login']]
+2022-12-22 13:15:956 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (a204fff7d2463ca3a4e69ec4ab5dbf2b)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:15:533 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:15:29 INFO  DesktopPage :37 - Getting desktop text [[ChromeDriver: chrome on WINDOWS (bfc49421faa9e3f0ecf9d7f36a956443)] -> xpath: //h2[contains(text(),'Desktops')]]
+2022-12-22 13:15:58 INFO  DesktopPage :37 - Getting desktop text [[ChromeDriver: chrome on WINDOWS (bfc49421faa9e3f0ecf9d7f36a956443)] -> xpath: //h2[contains(text(),'Desktops')]]
+2022-12-22 13:16:256 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:16:490 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (1634c129c254a2ca261583f3647e991d)] -> id: input-sort]
+2022-12-22 13:16:562 INFO  DesktopPage :54 - selectName (A - Z)from[[ChromeDriver: chrome on WINDOWS (1634c129c254a2ca261583f3647e991d)] -> id: input-sort]
+2022-12-22 13:16:51 INFO  DesktopPage :59 - Clicking on product HPLP3065 [[ChromeDriver: chrome on WINDOWS (1634c129c254a2ca261583f3647e991d)] -> xpath: //a[contains(text(),'HP LP3065')]]
+2022-12-22 13:16:588 INFO  ShoppingCartPage :58 - Verifying if success message contains Shopping Cart
+2022-12-22 13:16:659 INFO  ShoppingCartPage :67 - Verifying if success message contains 2022-11-30
+2022-12-22 13:16:691 INFO  ShoppingCartPage :72 - getting text of model selected
+2022-12-22 13:16:718 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:16:123 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:16:574 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-sort]
+2022-12-22 13:16:645 INFO  DesktopPage :54 - selectPrice (High > Low)from[[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-sort]
+2022-12-22 13:16:16 INFO  LaptopAndNoteBookPage :77 - Clicking on macbook [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> link text: MacBook]
+2022-12-22 13:16:44 INFO  MacBookPage :30 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //h1[contains(text(),'MacBook')]]
+2022-12-22 13:16:716 INFO  ShoppingCartPage :53 - Verifying if success message contains Shopping Cart
+2022-12-22 13:16:769 INFO  CheckoutPage :77 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //div[@class='table-responsive']//a[text()='MacBook']]
+2022-12-22 13:16:786 INFO  ShoppingCartPage :84 - clear quantity and add quantity of 2
+2022-12-22 13:16:884 INFO  ShoppingCartPage :90 - clicking on update cart
+2022-12-22 13:16:219 INFO  ShoppingCartPage :95 - Verifying if success message contains Success: You have added HP LP3065 to your shopping cart!
+2022-12-22 13:16:276 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:16:858 INFO  ShoppingCartPage :100 - Clicking on checkout Button [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> css selector: a.btn.btn-primary]
+2022-12-22 13:16:156 INFO  CheckoutPage :82 - Getting checkout text [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //h1[contains(text(),'Checkout')]]
+2022-12-22 13:16:226 INFO  CheckoutPage :88 - Getting new customer text [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //h2[contains(text(),'New Customer')]]
+2022-12-22 13:16:258 INFO  CheckoutPage :94 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:16:427 INFO  CheckoutPage :100 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //input[@id='button-account']]
+2022-12-22 13:16:10 INFO  CheckoutPage :131 - Enter namePriyankato first name field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-firstname]
+2022-12-22 13:16:349 INFO  CheckoutPage :137 - Enter namePatelto last name field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-lastname]
+2022-12-22 13:16:686 INFO  CheckoutPage :143 - Enter emailpriyankato email field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-email]
+2022-12-22 13:16:06 INFO  CheckoutPage :149 - Enter telephone03562835284to field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-telephone]
+2022-12-22 13:16:305 INFO  CheckoutPage :155 - Enter address10 XYZ Roadto field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-address-1]
+2022-12-22 13:16:647 INFO  CheckoutPage :161 - Enter cityLondonto field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-city]
+2022-12-22 13:16:984 INFO  CheckoutPage :167 - Enter psotcodeAB12CDto field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-postcode]
+2022-12-22 13:16:298 INFO  CheckoutPage :173 - Enter countryUnited Statesto field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-country]
+2022-12-22 13:16:616 INFO  CheckoutPage :179 - Enter regionArizonato field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> id: input-payment-zone]
+2022-12-22 13:16:708 INFO  CheckoutPage :107 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:16:966 INFO  CheckoutPage :185 - Enter commentComment About Orderto field [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> name: comment]
+2022-12-22 13:16:83 INFO  CheckoutPage :191 - Clicking on terms and conditions box [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> name: agree]
+2022-12-22 13:16:221 INFO  CheckoutPage :113 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (03b2f680f2f09afe5a399b2aed7ed2c8)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:16:02 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:17:599 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: firstname]
+2022-12-22 13:17:683 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: lastname]
+2022-12-22 13:17:781 INFO  RegisterPage :74 - Enter emailpriyapatel1@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: email]
+2022-12-22 13:17:854 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: telephone]
+2022-12-22 13:17:929 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: password]
+2022-12-22 13:17:08 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: confirm]
+2022-12-22 13:17:90 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: newsletter]
+2022-12-22 13:17:149 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> name: agree]
+2022-12-22 13:17:208 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (ad5297fbe4b5d6510a0e061198c1e5d8)] -> xpath: //input[@type='submit']]
+2022-12-22 13:17:563 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:17:845 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:17:447 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: firstname]
+2022-12-22 13:17:530 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: lastname]
+2022-12-22 13:17:627 INFO  RegisterPage :74 - Enter emailpriyapatel7@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: email]
+2022-12-22 13:17:713 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: telephone]
+2022-12-22 13:17:789 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: password]
+2022-12-22 13:17:870 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: confirm]
+2022-12-22 13:17:949 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: newsletter]
+2022-12-22 13:17:01 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> name: agree]
+2022-12-22 13:17:57 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (c1dacf41be747b6b07450c673dd7e8fc)] -> xpath: //input[@type='submit']]
+2022-12-22 13:17:417 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:17:694 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:17:06 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (7f8652c6f28bdd81fe7ecaefd86f0c04)] -> id: input-sort]
+2022-12-22 13:17:35 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (7f8652c6f28bdd81fe7ecaefd86f0c04)] -> id: input-sort]
+2022-12-22 13:22:289 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:22:479 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (d0dd8a1de5d2715ad14a0438fad71317)] -> id: input-sort]
+2022-12-22 13:22:556 INFO  DesktopPage :54 - selectName (A - Z)from[[ChromeDriver: chrome on WINDOWS (d0dd8a1de5d2715ad14a0438fad71317)] -> id: input-sort]
+2022-12-22 13:22:995 INFO  DesktopPage :59 - Clicking on product HPLP3065 [[ChromeDriver: chrome on WINDOWS (d0dd8a1de5d2715ad14a0438fad71317)] -> xpath: //a[contains(text(),'HP LP3065')]]
+2022-12-22 13:22:65 INFO  ShoppingCartPage :58 - Verifying if success message contains Shopping Cart
+2022-12-22 13:22:139 INFO  ShoppingCartPage :67 - Verifying if success message contains 2022-11-30
+2022-12-22 13:22:183 INFO  ShoppingCartPage :72 - getting text of model selected
+2022-12-22 13:22:211 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:22:152 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:22:487 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-sort]
+2022-12-22 13:22:566 INFO  DesktopPage :54 - selectPrice (High > Low)from[[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-sort]
+2022-12-22 13:22:944 INFO  LaptopAndNoteBookPage :77 - Clicking on macbook [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> link text: MacBook]
+2022-12-22 13:22:84 INFO  MacBookPage :30 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //h1[contains(text(),'MacBook')]]
+2022-12-22 13:22:682 INFO  ShoppingCartPage :53 - Verifying if success message contains Shopping Cart
+2022-12-22 13:22:739 INFO  CheckoutPage :77 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //div[@class='table-responsive']//a[text()='MacBook']]
+2022-12-22 13:22:756 INFO  ShoppingCartPage :84 - clear quantity and add quantity of 2
+2022-12-22 13:22:860 INFO  ShoppingCartPage :90 - clicking on update cart
+2022-12-22 13:22:160 INFO  ShoppingCartPage :95 - Verifying if success message contains Success: You have added HP LP3065 to your shopping cart!
+2022-12-22 13:22:203 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:22:817 INFO  ShoppingCartPage :100 - Clicking on checkout Button [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> css selector: a.btn.btn-primary]
+2022-12-22 13:22:157 INFO  CheckoutPage :82 - Getting checkout text [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //h1[contains(text(),'Checkout')]]
+2022-12-22 13:22:216 INFO  CheckoutPage :88 - Getting new customer text [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //h2[contains(text(),'New Customer')]]
+2022-12-22 13:22:246 INFO  CheckoutPage :94 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:22:402 INFO  CheckoutPage :100 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //input[@id='button-account']]
+2022-12-22 13:22:03 INFO  CheckoutPage :131 - Enter namePriyankato first name field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-firstname]
+2022-12-22 13:22:346 INFO  CheckoutPage :137 - Enter namePatelto last name field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-lastname]
+2022-12-22 13:22:634 INFO  CheckoutPage :143 - Enter emailpriyankato email field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-email]
+2022-12-22 13:22:968 INFO  CheckoutPage :149 - Enter telephone03562835284to field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-telephone]
+2022-12-22 13:22:295 INFO  CheckoutPage :155 - Enter address10 XYZ Roadto field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-address-1]
+2022-12-22 13:22:616 INFO  CheckoutPage :161 - Enter cityLondonto field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-city]
+2022-12-22 13:22:919 INFO  CheckoutPage :167 - Enter psotcodeAB12CDto field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-postcode]
+2022-12-22 13:22:196 INFO  CheckoutPage :173 - Enter countryUnited Statesto field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-country]
+2022-12-22 13:22:520 INFO  CheckoutPage :179 - Enter regionArizonato field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> id: input-payment-zone]
+2022-12-22 13:22:606 INFO  CheckoutPage :107 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:22:877 INFO  CheckoutPage :185 - Enter commentComment About Orderto field [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> name: comment]
+2022-12-22 13:22:993 INFO  CheckoutPage :191 - Clicking on terms and conditions box [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> name: agree]
+2022-12-22 13:22:149 INFO  CheckoutPage :113 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (2c3937851e253263164259ab1342b312)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:22:130 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:23:734 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: firstname]
+2022-12-22 13:23:821 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: lastname]
+2022-12-22 13:23:912 INFO  RegisterPage :74 - Enter emailpriyapatel1@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: email]
+2022-12-22 13:23:987 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: telephone]
+2022-12-22 13:23:55 INFO  RegisterPage :85 - Enter passwordpriyapassword2to field [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: password]
+2022-12-22 13:23:129 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: confirm]
+2022-12-22 13:23:205 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: newsletter]
+2022-12-22 13:23:262 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> name: agree]
+2022-12-22 13:23:317 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (a349a14402cb06805b53c1d284372506)] -> xpath: //input[@type='submit']]
+2022-12-22 13:23:651 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:23:990 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:23:701 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: firstname]
+2022-12-22 13:23:784 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: lastname]
+2022-12-22 13:23:865 INFO  RegisterPage :74 - Enter emailpriyapatel02@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: email]
+2022-12-22 13:23:951 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: telephone]
+2022-12-22 13:23:23 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: password]
+2022-12-22 13:23:98 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: confirm]
+2022-12-22 13:23:171 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: newsletter]
+2022-12-22 13:23:235 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> name: agree]
+2022-12-22 13:23:285 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> xpath: //input[@type='submit']]
+2022-12-22 13:23:699 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:23:750 INFO  RegisterPage :117 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> xpath: //a[@class='btn btn-primary']]
+2022-12-22 13:23:27 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:23:443 INFO  LogoutPage :22 - Getting logout text [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2022-12-22 13:23:478 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (479b839f2c813dc5dfc7ac22cd5eba7c)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:23:738 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:23:185 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (e6b51b913c19eb76cd39b45af5faf9b3)] -> id: input-sort]
+2022-12-22 13:23:216 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (e6b51b913c19eb76cd39b45af5faf9b3)] -> id: input-sort]
+2022-12-22 13:26:483 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:26:912 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (aaa62f58ac795be61b16178e90265464)] -> id: input-sort]
+2022-12-22 13:26:988 INFO  DesktopPage :54 - selectName (A - Z)from[[ChromeDriver: chrome on WINDOWS (aaa62f58ac795be61b16178e90265464)] -> id: input-sort]
+2022-12-22 13:26:386 INFO  DesktopPage :59 - Clicking on product HPLP3065 [[ChromeDriver: chrome on WINDOWS (aaa62f58ac795be61b16178e90265464)] -> xpath: //a[contains(text(),'HP LP3065')]]
+2022-12-22 13:26:241 INFO  ShoppingCartPage :58 - Verifying if success message contains Shopping Cart
+2022-12-22 13:26:307 INFO  ShoppingCartPage :67 - Verifying if success message contains 2022-11-30
+2022-12-22 13:26:340 INFO  ShoppingCartPage :72 - getting text of model selected
+2022-12-22 13:26:368 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:26:885 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:26:157 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-sort]
+2022-12-22 13:26:241 INFO  DesktopPage :54 - selectPrice (High > Low)from[[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-sort]
+2022-12-22 13:26:609 INFO  LaptopAndNoteBookPage :77 - Clicking on macbook [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> link text: MacBook]
+2022-12-22 13:26:669 INFO  MacBookPage :30 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //h1[contains(text(),'MacBook')]]
+2022-12-22 13:26:297 INFO  ShoppingCartPage :53 - Verifying if success message contains Shopping Cart
+2022-12-22 13:26:354 INFO  CheckoutPage :77 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //div[@class='table-responsive']//a[text()='MacBook']]
+2022-12-22 13:26:371 INFO  ShoppingCartPage :84 - clear quantity and add quantity of 2
+2022-12-22 13:26:474 INFO  ShoppingCartPage :90 - clicking on update cart
+2022-12-22 13:26:768 INFO  ShoppingCartPage :95 - Verifying if success message contains Success: You have added HP LP3065 to your shopping cart!
+2022-12-22 13:26:819 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:26:400 INFO  ShoppingCartPage :100 - Clicking on checkout Button [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> css selector: a.btn.btn-primary]
+2022-12-22 13:26:689 INFO  CheckoutPage :82 - Getting checkout text [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //h1[contains(text(),'Checkout')]]
+2022-12-22 13:26:764 INFO  CheckoutPage :88 - Getting new customer text [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //h2[contains(text(),'New Customer')]]
+2022-12-22 13:26:794 INFO  CheckoutPage :94 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:26:935 INFO  CheckoutPage :100 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //input[@id='button-account']]
+2022-12-22 13:26:537 INFO  CheckoutPage :131 - Enter namePriyankato first name field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-firstname]
+2022-12-22 13:26:860 INFO  CheckoutPage :137 - Enter namePatelto last name field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-lastname]
+2022-12-22 13:26:209 INFO  CheckoutPage :143 - Enter emailpriyankato email field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-email]
+2022-12-22 13:26:564 INFO  CheckoutPage :149 - Enter telephone03562835284to field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-telephone]
+2022-12-22 13:26:917 INFO  CheckoutPage :155 - Enter address10 XYZ Roadto field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-address-1]
+2022-12-22 13:26:225 INFO  CheckoutPage :161 - Enter cityLondonto field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-city]
+2022-12-22 13:26:577 INFO  CheckoutPage :167 - Enter psotcodeAB12CDto field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-postcode]
+2022-12-22 13:26:871 INFO  CheckoutPage :173 - Enter countryUnited Statesto field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-country]
+2022-12-22 13:26:200 INFO  CheckoutPage :179 - Enter regionArizonato field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> id: input-payment-zone]
+2022-12-22 13:26:288 INFO  CheckoutPage :107 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:26:544 INFO  CheckoutPage :185 - Enter commentComment About Orderto field [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> name: comment]
+2022-12-22 13:26:654 INFO  CheckoutPage :191 - Clicking on terms and conditions box [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> name: agree]
+2022-12-22 13:26:778 INFO  CheckoutPage :113 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (5def8b855aef465ff72e7bd4c9aabfd0)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:26:815 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:27:417 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: firstname]
+2022-12-22 13:27:499 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: lastname]
+2022-12-22 13:27:585 INFO  RegisterPage :74 - Enter emailpatelpriya1@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: email]
+2022-12-22 13:27:667 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: telephone]
+2022-12-22 13:27:740 INFO  RegisterPage :85 - Enter passwordpriyapassword2to field [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: password]
+2022-12-22 13:27:826 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: confirm]
+2022-12-22 13:27:902 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: newsletter]
+2022-12-22 13:27:951 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> name: agree]
+2022-12-22 13:27:07 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (14c8f4d6ff492d053d0c04fa3e02c364)] -> xpath: //input[@type='submit']]
+2022-12-22 13:27:348 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:27:629 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:27:293 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: firstname]
+2022-12-22 13:27:374 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: lastname]
+2022-12-22 13:27:470 INFO  RegisterPage :74 - Enter emailpatelpriya100@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: email]
+2022-12-22 13:27:552 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: telephone]
+2022-12-22 13:27:624 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: password]
+2022-12-22 13:27:702 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: confirm]
+2022-12-22 13:27:775 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: newsletter]
+2022-12-22 13:27:828 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> name: agree]
+2022-12-22 13:27:885 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> xpath: //input[@type='submit']]
+2022-12-22 13:27:295 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:27:340 INFO  RegisterPage :117 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> xpath: //a[@class='btn btn-primary']]
+2022-12-22 13:27:600 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:27:45 INFO  LogoutPage :22 - Getting logout text [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2022-12-22 13:27:80 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (dc7bb49bf3b6dd0eb100d326c6dd2172)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:27:301 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:27:598 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (81ab4f49f73faa3489a576f37691005c)] -> id: input-sort]
+2022-12-22 13:27:629 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (81ab4f49f73faa3489a576f37691005c)] -> id: input-sort]
+2022-12-22 13:28:660 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:28:308 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: firstname]
+2022-12-22 13:28:399 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: lastname]
+2022-12-22 13:28:491 INFO  RegisterPage :74 - Enter emailpatelpriya2@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: email]
+2022-12-22 13:28:583 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: telephone]
+2022-12-22 13:28:657 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: password]
+2022-12-22 13:28:736 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: confirm]
+2022-12-22 13:28:829 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: newsletter]
+2022-12-22 13:28:890 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: agree]
+2022-12-22 13:28:946 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //input[@type='submit']]
+2022-12-22 13:28:363 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:28:418 INFO  RegisterPage :117 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //a[@class='btn btn-primary']]
+2022-12-22 13:28:703 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:28:143 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:28:624 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:28:968 INFO  LoginPage :33 - Enter emailpatelpriya2@gmail.comto  field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: email]
+2022-12-22 13:28:62 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> name: password]
+2022-12-22 13:28:155 INFO  LoginPage :49 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //input[@value='Login']]
+2022-12-22 13:28:553 INFO  AccountPage :59 - Getting my account text [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //div[@id='content']/h2[text()='My Account']]
+2022-12-22 13:28:585 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:29:48 INFO  LogoutPage :22 - Getting logout text [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2022-12-22 13:29:83 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (fe549c96e3e4d1669395ed8594e627ff)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:29:771 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:29:25 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (61f6ad73b34961a1b5809a6ecc377684)] -> id: input-sort]
+2022-12-22 13:29:107 INFO  DesktopPage :54 - selectName (A - Z)from[[ChromeDriver: chrome on WINDOWS (61f6ad73b34961a1b5809a6ecc377684)] -> id: input-sort]
+2022-12-22 13:29:565 INFO  DesktopPage :59 - Clicking on product HPLP3065 [[ChromeDriver: chrome on WINDOWS (61f6ad73b34961a1b5809a6ecc377684)] -> xpath: //a[contains(text(),'HP LP3065')]]
+2022-12-22 13:29:397 INFO  ShoppingCartPage :58 - Verifying if success message contains Shopping Cart
+2022-12-22 13:29:487 INFO  ShoppingCartPage :67 - Verifying if success message contains 2022-11-30
+2022-12-22 13:29:517 INFO  ShoppingCartPage :72 - getting text of model selected
+2022-12-22 13:29:540 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:29:580 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:29:957 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-sort]
+2022-12-22 13:30:53 INFO  DesktopPage :54 - selectPrice (High > Low)from[[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-sort]
+2022-12-22 13:30:451 INFO  LaptopAndNoteBookPage :77 - Clicking on macbook [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> link text: MacBook]
+2022-12-22 13:30:711 INFO  MacBookPage :30 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //h1[contains(text(),'MacBook')]]
+2022-12-22 13:30:301 INFO  ShoppingCartPage :53 - Verifying if success message contains Shopping Cart
+2022-12-22 13:30:362 INFO  CheckoutPage :77 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //div[@class='table-responsive']//a[text()='MacBook']]
+2022-12-22 13:30:379 INFO  ShoppingCartPage :84 - clear quantity and add quantity of 2
+2022-12-22 13:30:490 INFO  ShoppingCartPage :90 - clicking on update cart
+2022-12-22 13:30:795 INFO  ShoppingCartPage :95 - Verifying if success message contains Success: You have added HP LP3065 to your shopping cart!
+2022-12-22 13:30:841 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:30:418 INFO  ShoppingCartPage :100 - Clicking on checkout Button [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> css selector: a.btn.btn-primary]
+2022-12-22 13:30:689 INFO  CheckoutPage :82 - Getting checkout text [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //h1[contains(text(),'Checkout')]]
+2022-12-22 13:30:738 INFO  CheckoutPage :88 - Getting new customer text [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //h2[contains(text(),'New Customer')]]
+2022-12-22 13:30:764 INFO  CheckoutPage :94 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:30:924 INFO  CheckoutPage :100 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //input[@id='button-account']]
+2022-12-22 13:30:528 INFO  CheckoutPage :131 - Enter namePriyankato first name field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-firstname]
+2022-12-22 13:30:880 INFO  CheckoutPage :137 - Enter namePatelto last name field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-lastname]
+2022-12-22 13:30:209 INFO  CheckoutPage :143 - Enter emailpriyankato email field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-email]
+2022-12-22 13:30:519 INFO  CheckoutPage :149 - Enter telephone03562835284to field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-telephone]
+2022-12-22 13:30:808 INFO  CheckoutPage :155 - Enter address10 XYZ Roadto field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-address-1]
+2022-12-22 13:30:164 INFO  CheckoutPage :161 - Enter cityLondonto field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-city]
+2022-12-22 13:30:525 INFO  CheckoutPage :167 - Enter psotcodeAB12CDto field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-postcode]
+2022-12-22 13:30:885 INFO  CheckoutPage :173 - Enter countryUnited Statesto field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-country]
+2022-12-22 13:30:235 INFO  CheckoutPage :179 - Enter regionArizonato field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> id: input-payment-zone]
+2022-12-22 13:30:351 INFO  CheckoutPage :107 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:30:613 INFO  CheckoutPage :185 - Enter commentComment About Orderto field [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> name: comment]
+2022-12-22 13:30:740 INFO  CheckoutPage :191 - Clicking on terms and conditions box [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> name: agree]
+2022-12-22 13:30:887 INFO  CheckoutPage :113 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (ee4a65859d8c42ca85a539fbcd8feda3)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:30:80 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:30:702 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: firstname]
+2022-12-22 13:30:786 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: lastname]
+2022-12-22 13:30:870 INFO  RegisterPage :74 - Enter emailpatelpriya3@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: email]
+2022-12-22 13:30:960 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: telephone]
+2022-12-22 13:30:36 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: password]
+2022-12-22 13:30:110 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: confirm]
+2022-12-22 13:30:188 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: newsletter]
+2022-12-22 13:30:247 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: agree]
+2022-12-22 13:30:305 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //input[@type='submit']]
+2022-12-22 13:30:722 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:30:769 INFO  RegisterPage :117 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //a[@class='btn btn-primary']]
+2022-12-22 13:30:20 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:30:454 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:30:950 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:30:266 INFO  LoginPage :33 - Enter emailpatelpriya3@gmail.comto  field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: email]
+2022-12-22 13:30:362 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> name: password]
+2022-12-22 13:30:446 INFO  LoginPage :49 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //input[@value='Login']]
+2022-12-22 13:30:838 INFO  AccountPage :59 - Getting my account text [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //div[@id='content']/h2[text()='My Account']]
+2022-12-22 13:30:870 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:30:368 INFO  LogoutPage :22 - Getting logout text [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2022-12-22 13:30:404 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (2920d04f9caf3ea0d11e49c86c13222b)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:30:906 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:31:558 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: firstname]
+2022-12-22 13:31:634 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: lastname]
+2022-12-22 13:31:719 INFO  RegisterPage :74 - Enter emailpatelpriya102@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: email]
+2022-12-22 13:31:818 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: telephone]
+2022-12-22 13:31:890 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: password]
+2022-12-22 13:31:965 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: confirm]
+2022-12-22 13:31:44 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: newsletter]
+2022-12-22 13:31:94 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> name: agree]
+2022-12-22 13:31:146 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> xpath: //input[@type='submit']]
+2022-12-22 13:31:569 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:31:621 INFO  RegisterPage :117 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> xpath: //a[@class='btn btn-primary']]
+2022-12-22 13:31:886 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:31:323 INFO  LogoutPage :22 - Getting logout text [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2022-12-22 13:31:357 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d8b2368646467a5851c3f65d77b3c435)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:31:840 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:31:227 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (400a71cdf7908ed2a066fa189a6af4b9)] -> id: input-sort]
+2022-12-22 13:31:258 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (400a71cdf7908ed2a066fa189a6af4b9)] -> id: input-sort]
+2022-12-22 13:33:461 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:33:726 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (d404facc43397ad257e0ed4c5c6321f5)] -> id: input-sort]
+2022-12-22 13:33:799 INFO  DesktopPage :54 - selectName (Z - A)from[[ChromeDriver: chrome on WINDOWS (d404facc43397ad257e0ed4c5c6321f5)] -> id: input-sort]
+2022-12-22 13:33:514 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:33:836 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (478461ad44e683e1297b2af9b470a360)] -> id: input-sort]
+2022-12-22 13:33:900 INFO  DesktopPage :54 - selectName (A - Z)from[[ChromeDriver: chrome on WINDOWS (478461ad44e683e1297b2af9b470a360)] -> id: input-sort]
+2022-12-22 13:33:281 INFO  DesktopPage :59 - Clicking on product HPLP3065 [[ChromeDriver: chrome on WINDOWS (478461ad44e683e1297b2af9b470a360)] -> xpath: //a[contains(text(),'HP LP3065')]]
+2022-12-22 13:33:650 INFO  ShoppingCartPage :58 - Verifying if success message contains Shopping Cart
+2022-12-22 13:33:716 INFO  ShoppingCartPage :67 - Verifying if success message contains 2022-11-30
+2022-12-22 13:33:746 INFO  ShoppingCartPage :72 - getting text of model selected
+2022-12-22 13:33:770 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:33:309 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:33:191 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:33:332 INFO  DesktopPage :42 - Clicking on sort by button [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-sort]
+2022-12-22 13:33:399 INFO  DesktopPage :54 - selectPrice (High > Low)from[[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-sort]
+2022-12-22 13:33:763 INFO  LaptopAndNoteBookPage :77 - Clicking on macbook [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> link text: MacBook]
+2022-12-22 13:33:771 INFO  MacBookPage :30 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //h1[contains(text(),'MacBook')]]
+2022-12-22 13:33:355 INFO  ShoppingCartPage :53 - Verifying if success message contains Shopping Cart
+2022-12-22 13:33:409 INFO  CheckoutPage :77 - Getting macbook text [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //div[@class='table-responsive']//a[text()='MacBook']]
+2022-12-22 13:33:425 INFO  ShoppingCartPage :84 - clear quantity and add quantity of 2
+2022-12-22 13:33:524 INFO  ShoppingCartPage :90 - clicking on update cart
+2022-12-22 13:33:864 INFO  ShoppingCartPage :95 - Verifying if success message contains Success: You have added HP LP3065 to your shopping cart!
+2022-12-22 13:33:905 INFO  ShoppingCartPage :77 - changing currency to GBP and returning text of total amount
+2022-12-22 13:33:435 INFO  ShoppingCartPage :100 - Clicking on checkout Button [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> css selector: a.btn.btn-primary]
+2022-12-22 13:33:742 INFO  CheckoutPage :82 - Getting checkout text [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //h1[contains(text(),'Checkout')]]
+2022-12-22 13:33:820 INFO  CheckoutPage :88 - Getting new customer text [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //h2[contains(text(),'New Customer')]]
+2022-12-22 13:33:849 INFO  CheckoutPage :94 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:33:991 INFO  CheckoutPage :100 - Clicking on continue button [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //input[@id='button-account']]
+2022-12-22 13:33:580 INFO  CheckoutPage :131 - Enter namePriyankato first name field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-firstname]
+2022-12-22 13:33:927 INFO  CheckoutPage :137 - Enter namePatelto last name field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-lastname]
+2022-12-22 13:33:219 INFO  CheckoutPage :143 - Enter emailpriyankato email field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-email]
+2022-12-22 13:33:565 INFO  CheckoutPage :149 - Enter telephone03562835284to field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-telephone]
+2022-12-22 13:33:899 INFO  CheckoutPage :155 - Enter address10 XYZ Roadto field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-address-1]
+2022-12-22 13:33:197 INFO  CheckoutPage :161 - Enter cityLondonto field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-city]
+2022-12-22 13:33:480 INFO  CheckoutPage :167 - Enter psotcodeAB12CDto field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-postcode]
+2022-12-22 13:33:791 INFO  CheckoutPage :173 - Enter countryUnited Statesto field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-country]
+2022-12-22 13:33:114 INFO  CheckoutPage :179 - Enter regionArizonato field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> id: input-payment-zone]
+2022-12-22 13:33:209 INFO  CheckoutPage :107 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:33:462 INFO  CheckoutPage :185 - Enter commentComment About Orderto field [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> name: comment]
+2022-12-22 13:33:684 INFO  CheckoutPage :191 - Clicking on terms and conditions box [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> name: agree]
+2022-12-22 13:33:755 INFO  CheckoutPage :113 - Clicking on radio button [[ChromeDriver: chrome on WINDOWS (48335a4f585f1ff8f35af49defe4d5b3)] -> xpath: //div[@id='checkout-checkout']//input[@value='guest']]
+2022-12-22 13:33:502 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (b64e09c190f55d8b3599d5b1b109117d)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:33:854 INFO  LoginPage :44 - Getting returning customer text [[ChromeDriver: chrome on WINDOWS (b64e09c190f55d8b3599d5b1b109117d)] -> xpath: //input[@value='Login']]
+2022-12-22 13:34:734 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:34:178 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: firstname]
+2022-12-22 13:34:255 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: lastname]
+2022-12-22 13:34:338 INFO  RegisterPage :74 - Enter emailpatelpriya4@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: email]
+2022-12-22 13:34:434 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: telephone]
+2022-12-22 13:34:510 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: password]
+2022-12-22 13:34:586 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: confirm]
+2022-12-22 13:34:656 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: newsletter]
+2022-12-22 13:34:708 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: agree]
+2022-12-22 13:34:758 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //input[@type='submit']]
+2022-12-22 13:34:200 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:34:251 INFO  RegisterPage :117 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //a[@class='btn btn-primary']]
+2022-12-22 13:34:522 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:34:946 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:34:366 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:34:721 INFO  LoginPage :33 - Enter emailpatelpriya4@gmail.comto  field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: email]
+2022-12-22 13:34:825 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> name: password]
+2022-12-22 13:34:908 INFO  LoginPage :49 - Clicking on Login Button [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //input[@value='Login']]
+2022-12-22 13:34:288 INFO  AccountPage :59 - Getting my account text [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //div[@id='content']/h2[text()='My Account']]
+2022-12-22 13:34:318 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:34:785 INFO  LogoutPage :22 - Getting logout text [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2022-12-22 13:34:820 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (1f70f6b4d45e7d69c3116dc51cf9ce80)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:34:137 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (501a8ced1eadf252ab1e32a2d50ba608)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:35:631 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:35:562 INFO  RegisterPage :62 - Enter first namePriyato field [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: firstname]
+2022-12-22 13:35:638 INFO  RegisterPage :68 - Enter last namePatelto field [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: lastname]
+2022-12-22 13:35:728 INFO  RegisterPage :74 - Enter emailpatelpriya103@gmail.comto email field [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: email]
+2022-12-22 13:35:826 INFO  RegisterPage :79 - Enter telephone02756876567to field [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: telephone]
+2022-12-22 13:35:900 INFO  RegisterPage :85 - Enter passwordpriyapassword1to field [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: password]
+2022-12-22 13:35:974 INFO  RegisterPage :91 - Enter emailpriyapassword1to email field [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: confirm]
+2022-12-22 13:35:53 INFO  RegisterPage :97 - Clicking on subscribe [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: newsletter]
+2022-12-22 13:35:104 INFO  RegisterPage :103 - Clicking on privacy policy [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> name: agree]
+2022-12-22 13:35:161 INFO  RegisterPage :109 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> xpath: //input[@type='submit']]
+2022-12-22 13:35:577 INFO  RegisterPage :113 - getting account creation message
+2022-12-22 13:35:624 INFO  RegisterPage :117 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> xpath: //a[@class='btn btn-primary']]
+2022-12-22 13:35:878 INFO  HomePage :117 - Clicking on my account [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> xpath: //span[contains(text(),'My Account')]]
+2022-12-22 13:35:325 INFO  LogoutPage :22 - Getting logout text [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> xpath: //h1[contains(text(),'Account Logout')]]
+2022-12-22 13:35:366 INFO  RegisterPage :121 - Clicking on continue [[ChromeDriver: chrome on WINDOWS (d7ead3ced2e8e2024abce4ef51605aa7)] -> xpath: //a[text()='Continue']]
+2022-12-22 13:35:649 INFO  HomePage :57 - hovering on desktop tab
+2022-12-22 13:35:464 INFO  DesktopPage :37 - Getting desktop text [[ChromeDriver: chrome on WINDOWS (2ef2c17f4d9b4ec97bacd1ef5e7b58e7)] -> xpath: //h2[contains(text(),'Desktops')]]
+2022-12-22 13:35:488 INFO  DesktopPage :37 - Getting desktop text [[ChromeDriver: chrome on WINDOWS (2ef2c17f4d9b4ec97bacd1ef5e7b58e7)] -> xpath: //h2[contains(text(),'Desktops')]]
+2022-12-22 13:35:266 INFO  HomePage :61 - hovering on laptop and notebook tab
+2022-12-22 13:35:818 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (1c4289c88782b60961cbfc5f703afbf5)] -> id: input-sort]
+2022-12-22 13:35:852 INFO  LaptopAndNoteBookPage :34 - getting laptop and notebook text [[ChromeDriver: chrome on WINDOWS (1c4289c88782b60961cbfc5f703afbf5)] -> id: input-sort]
+2022-12-22 13:35:820 INFO  HomePage :65 - hovering on components tab
+2022-12-22 13:35:516 INFO  ComponentsPage :21 - Getting components text [[ChromeDriver: chrome on WINDOWS (6a567c3c8ed4a163a783a09e1cd9bad7)] -> xpath: //a[text()='Components']]
+2022-12-22 13:35:540 INFO  ComponentsPage :21 - Getting components text [[ChromeDriver: chrome on WINDOWS (6a567c3c8ed4a163a783a09e1cd9bad7)] -> xpath: //a[text()='Components']]
